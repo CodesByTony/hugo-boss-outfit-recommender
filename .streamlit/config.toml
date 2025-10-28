@@ -1,0 +1,14 @@
+mkdir -p .streamlit
+
+cat > .streamlit/config.toml << 'EOF'
+[theme]
+primaryColor="#000000"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F0F0F0"
+textColor="#000000"
+font="sans serif"
+
+[server]
+maxUploadSize = 200
+enableXsrfProtection = false
+EOF
