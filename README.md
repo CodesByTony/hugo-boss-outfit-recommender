@@ -25,9 +25,6 @@ cat > README.md << 'EOF'
 3. **GNN Learning:** Neural network learns 64-dimensional embeddings
 4. **Smart Filtering:** Ensures variety (different slots, matching formality)
 
-## 🚀 Live Demo
-
-[https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
 
 ## 🎓 Academic Project
 
@@ -37,5 +34,5 @@ Master's thesis prototype demonstrating AI-driven fashion recommendations.
 
 ---
 
-Built with ❤️ using Streamlit + PyTorch
+Built with  using Streamlit + PyTorch
 EOF
